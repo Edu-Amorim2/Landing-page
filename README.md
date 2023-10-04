@@ -1,6 +1,6 @@
 <h1 align="center">Landing Page</h1>
 <div align="center">
-<a href="https://ibb.co/QQ2b7gd"><img src="https://i.ibb.co/ZXnLRjm/img2.png" alt="img2" border="0" width="300"></a>
+<a href="https://ibb.co/QQ2b7gd"><img src="https://i.ibb.co/ZXnLRjm/img2.png" alt="img2" border="0" width="500"></a>
 </div>
 <br>
 
