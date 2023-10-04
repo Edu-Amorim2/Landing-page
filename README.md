@@ -12,4 +12,5 @@
 <br>
       
 <h2 align="center"> Link do Projeto: </h1>
-<a href="https://edu-amorim2.github.io/Landing-page/">Acesse por aqui:</a>
+
+<p align="center"> <a href="https://edu-amorim2.github.io/Landing-page/">Acesse por aqui:</a></p>
