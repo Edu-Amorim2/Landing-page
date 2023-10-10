@@ -1,6 +1,6 @@
 <h1 align="center">Landing Page</h1>
 <div align="center">
-<img src="img/background.jpg" border="0" width="500"></a>
+<img src="img/img2.jpg" border="0" width="500"></a>
 </div>
 <br>
 
